@@ -68,7 +68,7 @@ dsmovie-contact-container img {
 
 
 #dsmovie-card-list {
-    padding: 40px 10;
+    padding: 40px 10px;
 
 }
 
@@ -96,7 +96,7 @@ dsmovie-contact-container img {
 .dsmovie-card-description h3 {
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 10px;
+    margin-bottom: px;
     text-align: center;
 }
 
